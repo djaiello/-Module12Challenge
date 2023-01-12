@@ -20,10 +20,12 @@ The resulting filter changes now allow the user to filter the UFO sightings data
 
 ### "State" Filter
     To filter sightings by state, enter a state abbreviation in the "Enter a State" input field and press <Enter> (e.g. "ca" for California)
+  
 ![image](https://user-images.githubusercontent.com/114360511/211950197-6e755933-4d94-49cf-af4b-a26f9f421070.png)
 
 ### "Country" Filter
   To filter sightings by country, enter a country abbreviation in the "Enter a Country" input field and press <Enter> (e.g. "ca" for Canada)
+  
 ![image](https://user-images.githubusercontent.com/114360511/211950269-0f2f9179-be77-461f-94c5-aff5561c1daa.png)
 
 ### "Shape" Filter
@@ -32,6 +34,7 @@ The resulting filter changes now allow the user to filter the UFO sightings data
 
 ### All Filters Combined
   To filter sightings by any combination of filters, enter each in the respective input field and press <Enter> (e.g. "1/4/2010", "el cajon", "ca", "us", "light")
+  
 ![image](https://user-images.githubusercontent.com/114360511/211950508-1e3ebb2d-63f9-4056-982d-0331e153a49a.png)
 
   NOTE:  To clear all filters, just refresh the screen.
