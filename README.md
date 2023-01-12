@@ -24,6 +24,10 @@ The resulting filter changes now allow the user to filter the UFO sightings data
 ![image](https://user-images.githubusercontent.com/114360511/211950269-0f2f9179-be77-461f-94c5-aff5561c1daa.png)
 
 ### "Shape" Filter
+![image](https://user-images.githubusercontent.com/114360511/211950390-08e7f5bb-ee6a-486e-8313-32c4486c2f2b.png)
+
+### All Filters Combined
+
 
 
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.  
