@@ -40,6 +40,7 @@ The resulting filter changes now allow the user to filter the UFO sightings data
   NOTE:  To clear all filters, just refresh the screen.
 
 ## Summary: 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
-- The summary addresses one drawback of this webpage (2 pt)
-- The summary addresses two additional recommendations for further development (4 pt)
+  The new design allows the user to select up to five criteria to filter the UFO sightings on, but one drawback to these new filters is that they do not offer a dropdown for possible values.  This may not matter for filter criteria like date, but for the others the end user may have to waste time trying to determine possible values to populate and search for.  For example, what UFO shapes are exist in the data to choose from or what is the country abbreviation for "Brazil"
+  
+  In looking ahead at possible upgrades for future development, one recommendation would be to add a dropdown for each filter input field that offers possible values based upon the values in the data.  This would make searching the data quicker and more seamless.  A second recommendation would be to add a link on each sighting that would combine all five filter data values into a single google search for further info.  The natural following for a person reseaching a sighting would be to search for further info (news clips, or other sites about the event) on the event.  A simple click to begin that process from a search engine, without having to cut and paste values would be helpful.
+  
