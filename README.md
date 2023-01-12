@@ -15,6 +15,7 @@ The resulting filter changes now allow the user to filter the UFO sightings data
 ![image](https://user-images.githubusercontent.com/114360511/211950025-e7f00eec-eec0-4f1c-9fd0-598f03cfd3ca.png)
 
 ### "City" Filter
+![image](https://user-images.githubusercontent.com/114360511/211950081-f37bf5b8-04eb-4f96-a016-d2c5a5dd4417.png)
 
 ### "State" Filter
 
