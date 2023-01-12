@@ -18,6 +18,7 @@ The resulting filter changes now allow the user to filter the UFO sightings data
 ![image](https://user-images.githubusercontent.com/114360511/211950081-f37bf5b8-04eb-4f96-a016-d2c5a5dd4417.png)
 
 ### "State" Filter
+![image](https://user-images.githubusercontent.com/114360511/211950197-6e755933-4d94-49cf-af4b-a26f9f421070.png)
 
 ### "Country" Filter
 
